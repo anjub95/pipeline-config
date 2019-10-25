@@ -1,6 +1,6 @@
 {
   "java-1.7.79":"tools/oracle-jdk/jdk-7u79-linux-x64.tar.gz",
-  "java-1.7.80":"ools/oracle-jdk/jdk-7u80-linux-x64.tar.gz",
+  "java-1.7.80":"tools/oracle-jdk/jdk-7u80-linux-x64.tar.gz",
   "java-1.8.131":"tools/oracle-jdk/jdk-8u131-linux-x64.tar.gz",
   "java-1.8.152":"tools/oracle-jdk/jdk-8u152-linux-x64.tar.gz",
   "java-9.0.1":"tools/oracle-jdk/jdk-9.0.1_linux-x64_bin.tar.gz",
