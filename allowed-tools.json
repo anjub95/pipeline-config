@@ -1,10 +1,10 @@
 {
   "java-1.7.79":"edp-tools/oracle-jdk/jdk-7u79-linux-x64.tar.gz",
   "java-1.7.80":"edp-tools/oracle-jdk/jdk-7u80-linux-x64.tar.gz",
-  "java-1.8.131":"edp-tools/oracle-jdk/jdk-8u131-linux-x64
+  "java-1.8.131":"edp-tools/oracle-jdk/jdk-8u131-linux-x64.tar.gz",
   "java-1.8.152":"edp-tools/oracle-jdk/jdk-8u152-linux-x64.tar.gz",
   "java-9.0.1":"edp-tools/oracle-jdk/jdk-9.0.1_linux-x64_bin.tar.gz",
-  "java-1.8.161":"edp-tools/oracle-jdk/jdk-8u161-linux-x64
+  "java-1.8.161":"edp-tools/oracle-jdk/jdk-8u161-linux-x64.tar.gz",
   "android-sdk-433":"edp-tools/android-sdk/sdk-tools-linux-4333796.tar.gz",
   "apache-maven-3.1.1":"edp-tools/apache-maven/apache-maven-3.1.1-bin.tar.gz",
   "apache-maven-3.3.9":"edp-tools/apache-maven/apache-maven-3.3.9-bin.tar.gz",
