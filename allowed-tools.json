@@ -5,7 +5,7 @@
   "java-1.8.152":"tools/oracle-jdk/jdk-8u152-linux-x64.tar.gz",
   "java-9.0.1":"tools/oracle-jdk/jdk-9.0.1_linux-x64_bin.tar.gz",
   "java-1.8.161":"tools/oracle-jdk/jdk-8u161-linux-x64.tar.gz",
-  "android-sdk-433":"tools/android-sdk/sdk-tools-linux-4333796.tar.gz",
+  "openjdk-8u222":"tools/oracle-jdk/OpenJDK8U-jdk_x64_linux_hotspot_8u222b10.tar.gz"
   "apache-maven-3.1.1":"tools/apache-maven/apache-maven-3.1.1-bin.tar.gz",
   "apache-maven-3.3.9":"tools/apache-maven/apache-maven-3.3.9-bin.tar.gz",
   "apache-maven-3.5.4":"tools/apache-maven/apache-maven-3.5.4-bin.tar.gz"
